@@ -3,14 +3,12 @@ JARVIS-style AI assistant built from scratch, works 100% offline.
 
 ### Features
 - Voice commands
-- App launcher & System control  
+- App launcher & System control
 - No internet needed
 - Built in C++17 + Windows API
 
-### 🔥 Get Full Source Code - $50(one-time)
-👉 BUY HERE: # FRIDAY STARK OS - Sponsors / Buy
-custom: https://checkout.dodopayments.com/buy/pdt_0NpYf1IeUshgUWvclrL1j?quantity=1
-github: gandhiprey13
+### 🔥 Get Full Source Code - $50 (one-time)
+👉 **[BUY NOW - $50](https://checkout.dodopayments.com/buy/pdt_0NpYf1IeUshg0Wvc1rl1j?quantity=1)**
 
 You get:
 - Private GitHub repo invite
@@ -18,7 +16,4 @@ You get:
 - Future updates
 
 ### ❤️ Sponsor Me
-👉 github.com/sponsors/gandhiprey13
-Sponsor $50 = Same full repo access + Support my work
-
-Built by @gandhiprey13
+👉 **https://github.com/sponsors/gandhiprey13**
