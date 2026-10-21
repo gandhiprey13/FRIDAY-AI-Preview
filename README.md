@@ -8,7 +8,7 @@ JARVIS-style AI assistant built from scratch, works 100% offline.
 - Built in C++17 + Windows API
 
 ### 🔥 Get Full Source Code - $50 (one-time)
-👉 **[BUY NOW - $50](https://checkout.dodopayments.com/buy/pdt_0NpYf1IeUshg0Wvc1rl1j?quantity=1)**
+👉 **[BUY NOW - $50](https://checkout.dodopayments.com/buy/pdt_0NpYf1IeUshgUWvclrL1j?quantity=1)
 
 You get:
 - Private GitHub repo invite
